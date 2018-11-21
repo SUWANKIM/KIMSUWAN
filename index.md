@@ -72,9 +72,7 @@
 
 
 ## Certificate
-```markdown
- 
- ```
+ - Promising University startup in Korea, Certified by Minister of Education(2016)
 
 
 
