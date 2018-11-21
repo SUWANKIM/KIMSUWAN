@@ -42,7 +42,8 @@
 ## Skills
 
   - Software        
-  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Django.png" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Django.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/react.png" width="80" height="80"/>
+ 
 
   Django, React, Python, Android, Java Script, Flash
   - Language        
