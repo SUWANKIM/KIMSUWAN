@@ -18,23 +18,23 @@
 
 
 ## Work Experience
-```markdown
- July.2017 to    MadeBy, Seoul, Korea
- Dec .2017       Performance planning PD
-                 - Performance planned 'Exciting Arts Tour 2017' in Gwangju, Korea
+
+ - MadeBy, Korea (July.2017 - Dec.2017)
+   : Performance planning PD
+   : Performance planned .['Exciting Arts Tour 2017' in Gwangju](https://korean.visitkorea.or.kr/detail/fes_detail.html?cotid=36031558-bfdb-4c75-b962-76155b9a0a10)
 
  July.2016 to    Tashkent city hall, IT centre, Uzbekistan
  Dec. 2016       computer teacher and app developer sponsored on National Information Society Agency of korea
                  - Taught C language to Uzbekistan people
                  - Developed App for IT center
-```
+
 
 
 ## Patent
 ```markdown
  Apr.25.2017     Korean Intellectual Property Office
-                 Title - Computing system having memo 
-                         software and method controlling of the same
+                 Title - memo software and method 
+                         controlling of the same
                  Number of patent - 10-1732101
 ```
 
