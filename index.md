@@ -2,7 +2,7 @@
 
 ## Summary of Skills
 
-```markdown
+```
 - Ability to full stack development and web planning
 - Experience with IT platform planning and development
 - Polyglot programmer
@@ -46,7 +46,7 @@
 
 
 ## Other Activities
-```markdown
+```
  2015        IPRC-Kigali in Rwanda, Taught Microsoft office to Rwanda people, Volunteer
  2017        Startup 'Telentravel', Android application development, Developer & Planner
  2018        Web site for amateur rapper 'Semibasement', Planner
