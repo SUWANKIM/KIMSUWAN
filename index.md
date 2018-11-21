@@ -42,8 +42,8 @@
 ## Skills
 
   - Software        
-  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Django.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/react.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/580b57fbd9996e24bc43bdf2.png" width="80" height="80"/>  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/python.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/java1.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Adobe_Flash_Professional_icon.png" width="80" height="80"/>
-  :  Django, React, Android, Python, Java Script, Flash
+  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Django.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/react.png" width="70" height="70"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/580b57fbd9996e24bc43bdf2.png" width="70" height="70"/>  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/python.png" width="60" height="60"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/java1.png" width="70" height="70"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Adobe_Flash_Professional_icon.png" width="70" height="70"/>
+  
   - Language        
     : Korean(Mother Tongue)
     : English(Advanced)
