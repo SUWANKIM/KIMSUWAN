@@ -42,7 +42,7 @@
 ## Skills
 
   - Software        
-  <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Django.png" width="80" height="80"/>
 
   Django, React, Python, Android, Java Script, Flash
   - Language        
