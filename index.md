@@ -81,6 +81,11 @@
  
  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/nia.jpg" width="200" height="310"/>
 
+ - Website Building Education in IPRC, Rwanda(2015)
+
+<img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/nia.jpg" width="200" height="310"/>
+
+
 
 ### Contact Me
 
