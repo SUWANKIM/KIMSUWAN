@@ -50,7 +50,7 @@
  2015            IPRC-Kigali in Rwanda, Taught Microsoft office to Rwanda people, Volunteer
  2017            Startup 'Telentravel', Android application development, Developer & Planner
  2018            Web site for amateur rapper 'Semibasement', Planner
- 2018            **startup** ''
+ 2018            **startup** 'Jeju-Sali', Web development, Developer & CEO
  ```
 
 # Header 1
