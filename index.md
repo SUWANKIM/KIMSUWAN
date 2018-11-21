@@ -1,4 +1,5 @@
-![프로필이미지](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/profile.jpg.png)
+
+<img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/profile.jpg.png" width="100" height="100"/>
 
 ## Summary of Skills
 
