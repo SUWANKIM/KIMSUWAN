@@ -2,11 +2,9 @@
 
 ## Summary of Skills
 
-```
 - Ability to full stack development and web planning
 - Experience with IT platform planning and development
 - Polyglot programmer
-```
 
 
 
