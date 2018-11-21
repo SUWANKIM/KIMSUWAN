@@ -9,6 +9,7 @@
 ```
 
 
+
 ## Education
 ```markdown
  Mar.2014 to     Hallym University, Chuncheon, Korea
@@ -17,16 +18,18 @@
 ```
 
 
+
 ## Work Experience
 
  - MadeBy, Korea (July.2017-Dec.2017)
    : Performance planning PD
-   : Performance planned .['Exciting Arts Tour 2017' in Gwangju](https://korean.visitkorea.or.kr/detail/fes_detail.html?cotid=36031558-bfdb-4c75-b962-76155b9a0a10)
+   : Performance planned ['Exciting Arts Tour 2017' in Gwangju](https://korean.visitkorea.or.kr/detail/fes_detail.html?cotid=36031558-bfdb-4c75-b962-76155b9a0a10)
 
   -  Tashkent city hall, IT centre, Uzbekistan (July.2016-Dec.2016)
-   :  computer teacher and app developer sponsored on .[NIA, Korea](https://www.nia.or.kr/)
+   :  computer teacher and app developer sponsored on [NIA, Korea](https://www.nia.or.kr/)
    : Taught C language to Uzbekistan people
    : Developed App for IT center
+
 
 
 ## Patent
@@ -38,11 +41,13 @@
 ```
 
 
+
 ## Skills
 ```markdown
  Software        Django, React, Python, Android, Java Script, Flash
  Language        Korean(Mother Tongue); English(Advanced); Russian(Beginner)
 ```
+
 
 
 ## Other Activities
@@ -54,10 +59,13 @@
  ```
 
 
+
 ## Certificate
 ```markdown
  
  ```
+
+
 
 ### Contact
 
