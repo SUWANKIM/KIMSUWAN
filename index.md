@@ -10,7 +10,8 @@
 
 ## Education
 
- - Hallym University - Majoring on Computer Engineering (2014-2019)
+ - Hallym University 
+   : Majoring on Computer Engineering (2014-2019)
  - Available from July.2019
 
 
@@ -29,13 +30,11 @@
 
 
 ## Patent
-```markdown
- Apr.25.2017     Korean Intellectual Property Office
-                 Title - memo software and method 
-                         controlling of the same
-                 Number of patent - 10-1732101
-```
 
+ - Title - memo software and method controlling of the same
+ - Patent Number - 10-1732101
+ - Registration Date - 25.Apri.2017 
+                 
 
 
 ## Skills
