@@ -78,9 +78,9 @@
 
 
 
-### Contact
+### Contact Me
 
  -  email. [Korean.kim@hotmail.com](Korean.kim@hotmail.com)
- - Skype. [Profile](https://join.skype.com/invite/JXnrvGPbl7M4)
- - Linkedin. [Profile](www.linkedin.com/in/suwankim)
+ - Skype. [View Profile](https://join.skype.com/invite/JXnrvGPbl7M4)
+ - Linkedin. [View Profile](www.linkedin.com/in/suwankim)
  - Tel. +8210-2744-5763
