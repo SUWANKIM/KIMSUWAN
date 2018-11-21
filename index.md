@@ -42,7 +42,8 @@
 ## Skills
 
   - Software        
-  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Django.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/react.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/580b57fbd9996e24bc43bdf2.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/python.png" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/Django.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/react.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/580b57fbd9996e24bc43bdf2.png" width="80" height="80"/>  <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/python.png" width="80" height="80"/> <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/java.png" width="80" height="80"/>
+  
   
   
  
