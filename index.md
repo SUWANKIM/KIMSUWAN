@@ -47,32 +47,12 @@
 
 ## Other Activities
 ```markdown
- 2015            IPRC-Kigali in Rwanda, Taught Microsoft office to Rwanda people, Volunteer
- 2017            Startup 'Telentravel', Android application development, Developer & Planner
- 2018            Web site for amateur rapper 'Semibasement', Planner
- 2018            **startup** 'Jeju-Sali', Web development, Developer & CEO
+ 2015        IPRC-Kigali in Rwanda, Taught Microsoft office to Rwanda people, Volunteer
+ 2017        Startup 'Telentravel', Android application development, Developer & Planner
+ 2018        Web site for amateur rapper 'Semibasement', Planner
+ 2018        startup 'Jeju-Sali', Web development, Developer & CEO
  ```
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**startup** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SUWANKIM/kimsuwan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
