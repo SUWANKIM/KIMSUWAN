@@ -55,7 +55,7 @@
 
 ## Other Activities
  - IPRC-Kigali in Rwanda(july.2015-Aug.2015)
-  : Taught MS office and Web building skills to Rwanda people
+  : Taught MS office and Web Building skills to Rwanda people
   : Volunteer
  
  - Startup 'Telentravel(2017)
