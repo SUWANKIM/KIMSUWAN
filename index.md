@@ -12,7 +12,7 @@
 
  - Hallym University 
    : Majoring on Computer Engineering (2014-2019)
- - Available from July.2019
+   : Available from July.2019
 
 
 
