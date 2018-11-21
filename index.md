@@ -9,7 +9,7 @@
 ```
 
 
-### Education
+## Education
 ```markdown
  Mar.2014 to     Hallym University, Chuncheon, Korea
  Aug.2019        Major: Computer Engineering
@@ -17,7 +17,7 @@
 ```
 
 
-### Work Experience
+## Work Experience
 ```markdown
  July.2017 to    MadeBy, Seoul, Korea
  Dec .2017       Performance planning PD
@@ -30,13 +30,28 @@
 ```
 
 
-### Patent
+## Patent
 ```markdown
-  Apr.25.2017    Korean Intellectual Property Office
+ Apr.25.2017     Korean Intellectual Property Office
                  Title of patent - Computing system having memo software and method controlling of the same
                  Number of patent - 10-1732101
 ```
 
+
+## Skills
+```markdown
+ Software        Django, React, Python, Android, Java Script, Flash
+ Language        Korean(Mother Tongue); English(Advanced); Russian(Beginner)
+```
+
+
+## Other Activities
+```markdown
+ 2015            IPRC-Kigali in Rwanda, Taught Microsoft office to Rwanda people, Volunteer
+ 2017            Startup 'Telentravel', Android application development, Developer & Planner
+ 2018            Web site for amateur rapper 'Semibasement', Planner
+ 2018            **startup** ''
+ ```
 
 # Header 1
 ## Header 2
