@@ -73,7 +73,7 @@
 
 ## Certificate
  - Promising University startup in Korea, Certified by Minister of Education(2016)
- <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/certifi.jpg"width="300" height="450"/>
+ <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/certifi.jpg" width="300" height="450"/>  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/300_1.jpg" width="300" height="450"/>
 
 
 
