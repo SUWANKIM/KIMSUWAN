@@ -16,7 +16,21 @@
                  Available from July.2019
 ```
 
+
+### Work Experience
 ```markdown
+ July.2017 to     MadeBy, Seoul, Korea
+ Dec .2017        Performance planning PD
+                  - Performance planned 'Exciting Arts Tour 2017' in Gwangju, Korea
+
+  July.2016 to    Tashkent city hall, IT centre, Uzbekistan
+  Dec. 2016       computer teacher and app developer sponsored on KOICA
+                  - Taught C language to Uzbekistan people
+                  - Developed App for IT center
+```
+
+```markdown
+
 Syntax highlighted code block
 
 # Header 1
