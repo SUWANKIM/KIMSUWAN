@@ -35,7 +35,7 @@
  - Patent Number - [10-1732101](http://kportal.kipris.or.kr/kportal/search/total_search.do)
  - Registration Date - 25.Apri.2017 
                  
-![patent](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/KakaoTalk_20181121_212659343.jpg)
+<img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/KakaoTalk_20181121_212659343.jpg"width="500" height="700"/>
 
 
 
