@@ -66,8 +66,8 @@
    
  - startup 'Jeju-Sali'(2018)
    : Developer & CEO
-   : [Web : www.Jejusali.co.kr](https://rlatndhks421.wixsite.com/jejusali)
-   : [Teaser : www.youtube.com/jejusali](https://www.youtube.com/watch?v=G2f8OGWW5CI)
+   : Web : [www.Jejusali.co.kr](https://rlatndhks421.wixsite.com/jejusali)
+   : Teaser : [www.youtube.com/jejusali](https://www.youtube.com/watch?v=G2f8OGWW5CI)
 
 
 
