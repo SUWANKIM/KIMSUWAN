@@ -8,8 +8,13 @@
 - Polyglot programmer
 ```
 
-### Markdown
 
+### Education
+```markdown
+ Mar.2014 to     Hallym University, Chuncheon, Korea
+ Aug.2019        Major: Computer Engineering
+                 Available from July.2019
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
