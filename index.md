@@ -18,7 +18,7 @@
 
 
 ## Work Experience
-...
+```markdown
  July.2017 to    MadeBy, Seoul, Korea
  Dec .2017       Performance planning PD
                  - Performance planned 'Exciting Arts Tour 2017' in Gwangju, Korea
@@ -27,7 +27,7 @@
  Dec. 2016       computer teacher and app developer sponsored on National Information Society Agency of korea
                  - Taught C language to Uzbekistan people
                  - Developed App for IT center
-...
+```
 
 
 ## Patent
