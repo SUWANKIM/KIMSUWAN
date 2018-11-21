@@ -32,16 +32,24 @@
 ## Patent
 
  - Title - memo software and method controlling of the same
- - Patent Number - 10-1732101
+ - Patent Number - [10-1732101](http://kportal.kipris.or.kr/kportal/search/total_search.do)
  - Registration Date - 25.Apri.2017 
                  
 ![patent](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/KakaoTalk_20181121_212659343.jpg)
 
+
+
 ## Skills
-```markdown
- Software        Django, React, Python, Android, Java Script, Flash
- Language        Korean(Mother Tongue); English(Advanced); Russian(Beginner)
-```
+
+  - Software        
+  <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+
+  Django, React, Python, Android, Java Script, Flash
+  - Language        
+    : Korean(Mother Tongue)
+    : English(Advanced)
+    : Russian(Beginner)
+
 
 
 
