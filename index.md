@@ -53,12 +53,19 @@
 
 
 ## Other Activities
-```
- 2015        IPRC-Kigali in Rwanda, Taught Microsoft office to Rwanda people, Volunteer
- 2017        Startup 'Telentravel', Android application development, Developer & Planner
- 2018        Web site for amateur rapper 'Semibasement', Planner
- 2018        startup 'Jeju-Sali', Web development, Developer & CEO
- ```
+ - IPRC-Kigali in Rwanda(2015)
+  : Taught Microsoft office to Rwanda people
+  : Volunteer
+ 
+ - Startup 'Telentravel(2017)
+  : Android application development
+  : Developer & Planner
+  
+ - Web site for amateur rapper 'Semibasement'(2018)
+   : Planner
+   
+ - startup 'Jeju-Sali'(2018)
+   : Developer & CEO
 
 
 
