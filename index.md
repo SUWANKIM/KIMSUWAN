@@ -83,7 +83,7 @@
 
  - Website Building Education in IPRC, Rwanda(2015)
 
-<img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/nia.jpg" width="200" height="310"/>
+<img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/111.jpg" width="310" height="200"/>
 
 
 
