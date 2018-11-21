@@ -9,11 +9,9 @@
 
 
 ## Education
-```markdown
- Mar.2014 to     Hallym University, Chuncheon, Korea
- Aug.2019        Major: Computer Engineering
-                 Available from July.2019
-```
+
+ - Hallym University - Majoring on Computer Engineering (2014-2019)
+ - Available from July.2019
 
 
 
