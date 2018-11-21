@@ -80,4 +80,7 @@
 
 ### Contact
 
-If you have any questions? Please contact me [korean.kimm@hotmail.com](korean.kimm@hotmail.com)
+ -  email. [Korean.kim@hotmail.com](Korean.kim@hotmail.com)
+ - Skype. [Profile](https://join.skype.com/invite/JXnrvGPbl7M4)
+ - Linkedin. [Profile](www.linkedin.com/in/suwankim)
+ - Tel. +8210-2744-5763
