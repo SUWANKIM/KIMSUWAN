@@ -35,7 +35,7 @@
  - Patent Number - [10-1732101](http://kportal.kipris.or.kr/kportal/search/total_search.do)
  - Registration Date - 25.Apri.2017 
                  
-<img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/KakaoTalk_20181121_212659343.jpg"width="500" height="700"/>
+[patent](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/KakaoTalk_20181121_212659343.jpg)
 
 
 
@@ -74,7 +74,7 @@
 ## Certificate
  - Promising University startup in Korea, Certified by Minister of Education(2016)
  
- <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/certifi.jpg" width="300" height="450"/>  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/300_1.jpg" width="300" height="450"/>
+ <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/certifi.jpg" width="200" height="350"/>  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/300_1.jpg" width="200" height="350"/>
 
 
 
