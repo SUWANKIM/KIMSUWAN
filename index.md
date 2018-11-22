@@ -73,17 +73,23 @@
 
 
 ## Certificate
+ - Website Building Education in IPRC Rwanda, Certified by president IPRC of Rwanda(2015)
+ - Completed  the Wolrd Friends IT Volunteer in Rwanda, Certified by NIA(2015)
+ - Completed  the Wolrd Friends ICT Volunteer in Uzbekistan, Certified by NIA(2016) 
  - Promising University startup in Korea, Certified by Minister of Education(2016)
  
  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/certifi.jpg" width="200" height="310"/>  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/300_1.jpg" width="200" height="310"/>
 
- - Wolrd Friends IT Volunteer Best Team, Certified by NIA(2015)
- 
- <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/nia.jpg" width="200" height="310"/>
+ - Kangwon Smart Creation Center, Startup, Certified by K-startup(2017)
+ - Promising University startup in Korea, Certified by Minister of Education(2017)
 
- - Website Building Education in IPRC, Rwanda(2015)
 
-<img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/111.jpg" width="310" height="200"/>
+
+
+## 교외 수상경력
+
+ - 월드프렌즈 IT봉사단, 활동우수팀(18.12.2015)
+ - 강원대학연합 창업경진대회, 은상(09.10.2017)
 
 
 
@@ -93,7 +99,9 @@
  - 창업동아리 경진대회, 동상(20.07.2016)
  - 공대 학술제 서공제, 2위(07.11.2017)
  - 창업동아리 경진대회, 은상(12.02.2018)
- - 
+ - 서평대회, 1위(03.10.2018)
+ - 공과대학 자기소개서 대회, 3위(12.10.2018)
+ - 공대 학술제 서공제 ,3위(22.10.2018)
  
  
 
