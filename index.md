@@ -11,7 +11,7 @@
 
 ## Education
 
- - Hallym University 
+ - Hallym University, Korea
    : Majoring on Computer Engineering (2014-2019)
    : Available from July.2019
 
@@ -47,7 +47,7 @@
   
   - Language        
     : Korean(Mother Tongue)
-    : English(Advanced)
+    : English(Intermediate)
     : Russian(Beginner)
 
 
