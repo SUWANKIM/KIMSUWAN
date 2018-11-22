@@ -73,15 +73,15 @@
 
 
 ## Certificate
- - Website Building Education in IPRC Rwanda, Certified by president IPRC of Rwanda(2015)
- - Completed  the Wolrd Friends IT Volunteer in Rwanda, Certified by NIA(2015)
- - Completed  the Wolrd Friends ICT Volunteer in Uzbekistan, Certified by NIA(2016) 
- - Promising University startup in Korea, Certified by Minister of Education(2016)
+ - Website Building Education in IPRC Rwanda, Certified by president of [IPRC](http://www.iprckigali.rp.ac.rw/)(2015)
+ - Completed the Wolrd Friends IT Volunteer in Rwanda, Certified by [NIA](https://www.nia.or.kr/)(2015)
+ - Completed the Wolrd Friends ICT Volunteer in Uzbekistan, Certified by [NIA](https://www.nia.or.kr/)(2016) 
+ - Promising University startup in Korea, Certified by [Minister of Education](http://www.moe.go.kr/main.do)(2016)
  
  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/certifi.jpg" width="200" height="310"/>  <img src ="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/300_1.jpg" width="200" height="310"/>
 
- - Kangwon Smart Creation Center, Startup, Certified by K-startup(2017)
- - Promising University startup in Korea, Certified by Minister of Education(2017)
+ - Kangwon Smart Creation Center, Startup, Certified by [K-startup](https://www.k-startup.go.kr/main.do)(2017)
+ - Promising University startup in Korea, Certified by [Minister of Education](http://www.moe.go.kr/main.do)(2017)
 
 
 
