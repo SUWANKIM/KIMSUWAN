@@ -3,7 +3,7 @@
 
 ## Summary of Skills
 
-- back-end development and web planning
+- Front-end development and web planning
 - Experience with IT platform planning and development
 - Polyglot programmer
 
