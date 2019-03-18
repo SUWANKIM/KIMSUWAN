@@ -1,11 +1,22 @@
 
 <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/profile.jpg.png" width="100" height="100"/>
 
+
+## 적정기술(Appropriate Technology)를 만드는 개발자
+
+ ‘소외된 90%를 위한 아이템을 만들자’ 고등학생 때부터 가진 저의 목표입니다. 
+ 이 목표를 이루기 위한 사회적 플랫폼을 만들기 위해 대학에서 컴퓨터공학을 전공했습니다. 
+ 또한 개발도상국의 적정기술과 그에 따른 삶의 질을 조사하기 위해 7개월간 르완다와 우즈베키스탄으로 두 번의 IT봉사를 다녀왔습니다. 
+ 적정기술은 한 지역 거주민들의 삶의 질 향상을 위한 기술 또는 플랫폼으로 정의됩니다. 
+개인이 만든 하나의 플랫폼이 당장 우리 사회의 문제를 바꿀 수 없을 것 입니다. 
+하지만 저는 꾸준히 사회 문제에 대한 목소리를 낼 것 입니다. 
+작은 물결이 큰 파도가 되듯 저는 더 나은 삶을 위한 작은 목소리를 내는 개발자가 될 것입니다.
+
+
 ## Summary of Skills
 
 - Front-end development and web planning
 - Experience with IT platform planning and development
-- Polyglot programmer
 
 
 
