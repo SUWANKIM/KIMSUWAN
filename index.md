@@ -33,7 +33,7 @@
 ## Project
 
  - Talentravel
-https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/telent1.jpg
+![telent1](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/telent1.jpg)
 
 
 
