@@ -32,10 +32,10 @@
 
 ## Project
 
- - Talentravel
+ - Talentravel (2016), Android App
 ![telent1](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/telent1.jpg)
 
-
+ - Semibasement (2018), Web
 
 ## Patent
 
