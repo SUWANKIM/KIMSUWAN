@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/profile.jpg.png" width="100" height="100"/>
 
 
-## 적정기술(Appropriate Technology) 만드는 개발자
+## 적정기술(Appropriate Technology)을 만드는 개발자
 
  ‘소외된 90%를 위한 아이템을 만들자’ 고등학생 때부터 가진 제 목표입니다. 
  이 목표를 이루기 위한 사회적 플랫폼을 만들기 위해 컴퓨터공학을 전공했습니다. 
