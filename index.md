@@ -35,8 +35,15 @@
  - Talentravel (2016), Android App
 ![telent1](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/telent1.jpg)
 
+
  - Semibasement (2018), Web
 ![semi](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/semi.jpg)
+
+
+ - Jejusali (2018), Web, Wix
+![jeju](https://raw.githubusercontent.com/SUWANKIM/KIMSUWAN/master/jeju.jpg)
+
+
 
 ## Patent
 
