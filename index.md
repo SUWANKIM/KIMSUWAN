@@ -100,9 +100,7 @@
    : Project Manager
    
  - startup 'Jeju-Sali'(2018)
-   : Developer & CEO
-   : Web : [www.Jejusali.co.kr](https://rlatndhks421.wixsite.com/jejusali)
-   : Teaser : [www.youtube.com/jejusali](https://www.youtube.com/watch?v=G2f8OGWW5CI)
+   : Developer & Project Manager
 
 
 
@@ -124,6 +122,7 @@
 
  - 월드프렌즈 IT봉사단, 활동우수팀(18.12.2015)
  - 강원대학연합 창업경진대회, 장려상(09.10.2017)
+ - 2019소셜벤처경연대회 대전.충청.강원권, 1위(08.08.2019)
 
 
 
