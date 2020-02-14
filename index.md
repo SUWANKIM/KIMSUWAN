@@ -136,12 +136,14 @@
  - 공과대학 자기소개서 대회, 3위(12.10.2018)
  - 공대 학술제 서공제, 3위(22.10.2018)
  - 창의한림인 콘테스트, 장려상(27.11.2018)
+ - 올해를 빛낸 한림인, 취창업분야(03.12.2019)
  
  
 
 ### Contact Me
 
- -  email. [Korean.kim@hotmail.com](Korean.kim@hotmail.com)
+ - email. [Korean.kim@hotmail.com](Korean.kim@hotmail.com)
  - Skype. [View Profile](https://join.skype.com/invite/JXnrvGPbl7M4)
  - Linkedin. [View Profile](www.linkedin.com/in/suwankim)
- - Tel. +8210-2744-5763
+ - Youtube. [View Profile](https://www.youtube.com/channel/UCiGxaiY3-9_6bA1h0mtFzgQ)
+ - Instagram. [View Profile](https://www.instagram.com/huckleberrypin_26/)
